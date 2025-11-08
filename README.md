@@ -30,6 +30,7 @@ Validate the HTML and CSS code
 Publish the website in the given URL.
 
 ## PROGRAM
+```
 <html>
     <head>
         <title>Image Gallery</title>
@@ -154,6 +155,7 @@ Publish the website in the given URL.
   
     </body>
 </html>
+```
 
 ## OUTPUT
 ![alt text](<Screenshot 2025-11-08 191931.png>)
